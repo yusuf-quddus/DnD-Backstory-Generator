@@ -1,4 +1,3 @@
-
 import openai
 openai.api_key = '<api key>'
 model_id = 'gpt-3.5-turbo'
